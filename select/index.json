@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "青いベンチ",
+  "base_artist": "サスケ",
+  "createdAt": "2026-03-10T11:28:02.821621Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青いベンチ",
+      "artist": "サスケ",
+      "has_synced": true,
+      "path": "select/01_青いベンチ_サスケ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "青いベンチ feat.えみい(テーマパークガール)",
+      "artist": "Kobasolo feat. えみい(テーマパークガール)",
+      "has_synced": true,
+      "path": "select/02_青いベンチ_feat.えみい(テーマパークガール)_Kobasolo_feat._えみい(テーマパークガール).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "青いベンチ feat.えみい(テーマパークガール)",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/03_青いベンチ_feat.えみい(テーマパークガール)_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "青いベンチ",
+      "artist": "Sasuke",
+      "has_synced": true,
+      "path": "select/04_青いベンチ_Sasuke.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "青いベンチ",
+      "artist": "Sasuke",
+      "has_synced": true,
+      "path": "select/05_青いベンチ_Sasuke.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "青いベンチ",
+      "artist": "AIDeaForge",
+      "has_synced": false,
+      "path": "select/06_青いベンチ_AIDeaForge.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "青いベンチ - －10th Anniversary－",
+      "artist": "Sasuke",
+      "has_synced": true,
+      "path": "select/07_青いベンチ_-_-10th_Anniversary-_Sasuke.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青いベンチ",
+      "artist": "サスケ",
+      "has_synced": false,
+      "path": "select/pl_01_青いベンチ_サスケ.txt"
+    }
+  ]
+}
